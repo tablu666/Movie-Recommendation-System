@@ -7,6 +7,10 @@ This is a capstone project for coursera [Java programming course](https://www.co
 > This project is based on OOP and dynamic dispatching such as using methods of special objects and implementing interface.
 
 ## Screenshot
+#### Rating page
+![](https://github.com/tablu666/Movie-Recommendation-System/blob/master/screenshot/screenshot1.png)
+#### Movie recommendation page
+![](https://github.com/tablu666/Movie-Recommendation-System/blob/master/screenshot/screenshot2.png)
 
 ## Algorithm
 - Computing dot product between ratings of two users to get weight.
